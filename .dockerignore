@@ -1,0 +1,29 @@
+# Ignore build artifacts
+*.o
+*.a
+*.so
+*.out
+*.exe
+
+# Ignore compiled object files
+*.obj
+
+# Ignore dependency files
+*.d
+
+# Ignore temporary files
+*.tmp
+*.log
+*.swp
+*.bak
+
+# Ignore directories
+/build/
+bin/
+obj/
+Debug/
+Release/
+
+# Ignore version control files
+.git/
+.gitignore
